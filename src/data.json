@@ -1,0 +1,42 @@
+[
+  {
+    "year": 2020,
+    "jobs": [
+      { "title": "ML Engineer", "salary": 100000 },
+      { "title": "Data Scientist", "salary": 120000 },
+      { "title": "ML Engineer", "salary": 110000 }
+    ]
+  },
+  {
+    "year": 2021,
+    "jobs": [
+      { "title": "ML Engineer", "salary": 105000 },
+      { "title": "Data Scientist", "salary": 125000 },
+      { "title": "ML Engineer", "salary": 115000 }
+    ]
+  },
+  {
+    "year": 2022,
+    "jobs": [
+      { "title": "ML Engineer", "salary": 110000 },
+      { "title": "Data Scientist", "salary": 130000 },
+      { "title": "ML Engineer", "salary": 120000 }
+    ]
+  },
+  {
+    "year": 2023,
+    "jobs": [
+      { "title": "ML Engineer", "salary": 115000 },
+      { "title": "Data Scientist", "salary": 135000 },
+      { "title": "ML Engineer", "salary": 125000 }
+    ]
+  },
+  {
+    "year": 2024,
+    "jobs": [
+      { "title": "ML Engineer", "salary": 120000 },
+      { "title": "Data Scientist", "salary": 140000 },
+      { "title": "ML Engineer", "salary": 130000 }
+    ]
+  }
+]
